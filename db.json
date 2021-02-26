@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "name": "pratik",
+      "content": "going gym",
+      "state": "todo",
+      "id": 1
+    },
+    {
+      "name": "nil",
+      "content": "going out",
+      "state": "todo",
+      "id": 2
+    },
+    {
+      "name": "ronak",
+      "content": "practice",
+      "state": "todo",
+      "id": 3
+    },
+    {
+      "name": "jeet",
+      "content": "doing study",
+      "state": "todo",
+      "id": 4
+    }
+  ]
+}
